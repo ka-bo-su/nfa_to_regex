@@ -1,0 +1,5 @@
+digraph {
+	I0 [label=I0 shape=point]
+	S7 [label=S7 shape=doublecircle]
+	I0 -> S7 [label="((door\?A)|(door\?B))*(door\?A)(door\?A)(door\?B)((door\?A)|(door\?B))((door\?A)|(door\?B))((door\?A)|(door\?B))(door\!unlock)"]
+}
